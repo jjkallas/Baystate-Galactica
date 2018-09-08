@@ -1,7 +1,6 @@
-
+// Jack Kallas
 // the "Ouchies"
-// monster
-// class
+// Monster class
 
 
 int maxHealth = 1;
