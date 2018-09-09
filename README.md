@@ -1,5 +1,6 @@
-# baystate-galactica
 ![alt text](/superMonster.png)
-# contents for baystate galactica - created by jkallas
+Baystate Galactica - a space invaders-like game created in the Processing language
+by Jack Kallas
 
-install note: change the file paths in setup() of spaceshipSketch.pde to match where you saved the images :)
+#Install note
+Change the file paths in setup of spaceshipSketch.pde to match the image locations.
