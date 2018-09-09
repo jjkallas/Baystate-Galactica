@@ -1,5 +1,5 @@
 # Baystate Galactica
-a space invaders-like game created in the Processing language
+A space invaders-like game created in the Processing language
 
 by Jack Kallas
 
