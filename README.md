@@ -10,7 +10,4 @@
 ### Install Note:
 Inside spaceshipSketch.pde, Change the file paths on lines 57-75 to match your downloaded location.
 
-
-
-
-![alt text](/superMonster.png)
+![alt text](/spaceMonster.png)
